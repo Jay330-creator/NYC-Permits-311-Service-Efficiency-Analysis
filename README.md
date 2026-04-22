@@ -74,7 +74,7 @@ The dashboard visualizes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/powerbiss.png)
+![Dashboard Preview](images/powerbis.png)
 ---
 
 ## 📂 Project Files
